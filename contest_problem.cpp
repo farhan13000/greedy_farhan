@@ -1,3 +1,6 @@
+// Given an Array of N people(speed_i, efficiency_i) out those n we have to create a taem of K people such that
+// (sum of efficeincy of all k selected people ) *(min of speed of those k selected people) is as maximum as possible. ^
+
 #include<bits/stdc++.h>
 using namespace std;
 
